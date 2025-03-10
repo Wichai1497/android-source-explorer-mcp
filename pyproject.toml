@@ -1,0 +1,5 @@
+[project]
+name = "android-source-explorer-mcp"
+version = "0.1.0"
+description = "MCP server for exploring AOSP internals and Jetpack libraries"
+requires-python = ">=3.10"
