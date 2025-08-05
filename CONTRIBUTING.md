@@ -10,3 +10,4 @@ Notes and usage details for android-source-explorer-mcp.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- link the usage section
