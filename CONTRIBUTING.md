@@ -31,3 +31,4 @@ Notes and usage details for android-source-explorer-mcp.
 - clarify the setup steps
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
